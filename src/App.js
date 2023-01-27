@@ -57,9 +57,11 @@ function App() {
         
         }
 
-      {
+  {/*     {
       array.map( (val) => <p>{val}</p>)
-    }
+    } */}
+
+
     </div>
   );
 }
